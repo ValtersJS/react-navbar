@@ -100,6 +100,4 @@ function DropdownMenu() {
   );
 }
 
-
-
 export default App;
